@@ -1,0 +1,1 @@
+UPDATE pelanggan set nama = "irvan" where id = 1;
